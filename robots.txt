@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aidmarketingagency.github.io/superior-pest-management-llc-missed-call-demo/sitemap.xml
